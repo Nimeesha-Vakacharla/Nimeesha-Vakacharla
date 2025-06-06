@@ -1,4 +1,14 @@
+
+
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+
+---
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile.jpg" width="150" style="border-radius: 50%;" />
+</p>
+
+
 
 <p align="center">
   <strong>Hi, I'm Gnanaprasuna Nimeesha Vakacharla</strong><br/>
