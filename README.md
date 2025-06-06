@@ -5,7 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile.jpg" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Nimeesha-Vakacharla/Nimeesha-Vakacharla/blob/main/images/11.jpg" width="150" style="border-radius: 50%;" />
+  
 </p>
 
 
