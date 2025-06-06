@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <strong>Hi, I'm Gnana Prasuna Nimeesha Vakacharla</strong><br/>
+  <strong>Hi, I'm Gnanaprasuna Nimeesha Vakacharla</strong><br/>
   🎓 Data Engineer | 🤖 Generative AI Engineer | 🧠 AI Enthusiast
 </p>
 
@@ -27,43 +27,48 @@ My journey is fueled by a desire to push the boundaries of AI and distributed sy
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E34A6F?style=flat-square&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
+### 👩‍💻 Languages
+`Python` `SQL` `JavaScript` `HTML` `CSS`
+
+### ☁️ Data Engineering & Cloud
+`Apache Airflow` `GCP (BigQuery, Cloud Composer, Cloud Run)` `Hadoop` `PySpark` `Docker`
+
+### 📈 Libraries & Visualization
+`Pandas` `NumPy` `Plotly` `Power BI` `Matplotlib` `Seaborn`
+
+### 🤖 Machine Learning
+`Scikit-learn` `k-Nearest Neighbors` `TF-IDF` `Collaborative Filtering`
+
+### 🧠 Deep Learning & Generative AI
+`TensorFlow` `PyTorch` `CNN` `LSTM` `RAG` `NLP` `LLMs` `LangChain` `Pinecone` `ChromaDB`
+
+### 🧰 Tools & Frameworks
+`FastAPI` `Flask` `ReactJS` `Tailwind CSS` `LangGraph` `LangSmith` `Selenium`
+
+### 🔗 APIs & Integrations
+`Google Books API` `Amadeus API` `OpenWeatherMap API` `Booking.com API` `OpenAI Whisper` `Gemini API`
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Featured Projects
 
-- **AI Travel Assistant** – Multi-agent trip planner using LangChain, Composer, Amadeus, and OpenWeatherMap APIs.
-- **DeepFake Video Detection** – Built with CNNs & LSTMs in TensorFlow to detect manipulated video content.
-- **GAN Image Style Transfer** – Real-time artistic transformation with PyTorch-based GANs.
-- **FashionMNIST Autoencoders** – Dimensionality reduction and feature learning using TensorFlow.
-- **Agentic Content Generator** – LLM + RAG system orchestrated with LangGraph for smart content workflows.
-- **CLIP Text-Image Similarity** – Multimodal FastAPI app using OpenAI’s CLIP for similarity search.
-- **Square Payment System** – Agentic RAG-based intelligent payment processing with Pinecone.
-- **Faculty Leave Management** – Full-stack CRUD system with React, FastAPI, and PostgreSQL.
+- 🔗 [AI Travel Assistant](https://github.com/Nimeesha-Vakacharla/AI-Travel-Assistant) – Multi-agent trip planner using LangChain, Composer, Amadeus, and OpenWeatherMap APIs  
+- 🔗 [DeepFake Video Detection](https://github.com/Nimeesha-Vakacharla/DeepFake-Video-Detection) – CNN + LSTM model to detect manipulated video content  
+- 🔗 [GAN Image Style Transfer](https://github.com/Nimeesha-Vakacharla/GAN-Image-Style-Transfer) – PyTorch GANs for artistic image transformation  
+- 🔗 [Autoencoders on FashionMNIST](https://github.com/Nimeesha-Vakacharla/Exploring-Autoencoders-with-FashionMNIST-Dataset) – Unsupervised learning with encoders  
+- 🔗 [Agentic Content Generation](https://github.com/Nimeesha-Vakacharla/Agentic-Content-Generation-System) – Multi-agent LLM + RAG pipeline with LangGraph  
+- 🔗 [CLIP Text-Image Similarity](https://github.com/Nimeesha-Vakacharla/Text-Image-Similarity-Analysis-Using-CLIP) – FastAPI app powered by OpenAI’s CLIP  
+- 🔗 [Square Payment System RAG](https://github.com/Nimeesha-Vakacharla/Square-Payment-System-with-Agentic-RAG) – Payment processing using RAG and Pinecone  
+- 🔗 [SJSU Leave Management System](https://github.com/Nimeesha-Vakacharla/SJSU-Faculty-Leave-Management-System) – React + FastAPI + PostgreSQL for faculty leave tracking
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: nimeeshav02@gmail.com  
-- 💼 LinkedIn: [Gnanaprasuna Nimeesha Vakacharla](https://linkedin.com/in/nimeesha-vakacharla)
+<p align="left">
+  <a href="mailto:nimeeshav02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nimeesha-vakacharla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
